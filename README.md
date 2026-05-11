@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
-Transitioning into Data Analytics from a background in Banking, Finance, and Accounting, I combine financial knowledge with analytical thinking to support data-driven decision-making. With over one year of experience in accounting and a strong interest in banking analytics, I am passionate about transforming complex datasets into actionable business insights.
+Transitioning into Data Analytics from a background in Banking, and Finance and 1+ year working as a Accountant, I combine financial knowledge with analytical thinking to support data-driven decision-making. With over one year of experience in accounting and a strong interest in banking analytics, I am passionate about transforming complex datasets into actionable business insights.
 
-I continuously enhance my technical and analytical capabilities through hands-on projects in Banking Analytics, Business Intelligence, Financial Analysis, and Data Engineering. My goal is to contribute to strategic growth, operational efficiency, and risk management within the banking and financial services industry.
+I continuously enhance my technical and analytical capabilities through hands-on projects in Banking Analytics, Business Analytics, and Financial Analysis. My goal is to contribute to strategic growth, operational efficiency, and risk management within the banking and financial services industry.
 
 ---
 
