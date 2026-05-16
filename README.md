@@ -1,15 +1,6 @@
 ## 👨‍💻 About Me
-Transitioning into Data Analytics from a background in Banking, and Finance and 1+ year working as a Accountant, I combine financial knowledge with analytical thinking to support data-driven decision-making. With over one year of experience in accounting and a strong interest in banking analytics, I am passionate about transforming complex datasets into actionable business insights.
 
-I continuously enhance my technical and analytical capabilities through hands-on projects in Banking Analytics, Business Analytics, and Financial Analysis. My goal is to contribute to strategic growth, operational efficiency, and risk management within the banking and financial services industry.
-
----
-
-## 💻 Technical Skills
-- **Programming & Database:** Python, MySQL, SQL
-- **Data Visualization:** Power BI
-- **Data Analysis:** Pandas, NumPy, Data Cleaning, EDA
-- **Business & Finance:** Banking Analytics, Financial Analysis, KPI Tracking, Risk Analysis
+Aspiring Data Analyst with a finance background and 1+ years of experience in Accounting. Skilled in SQL (BigQuery), Python, Power BI, and Excel, with hands-on experience in ETL, data analysis, and data quality validation. Passionate about turning data into actionable insights to support business decision-making.
 
 ---
 
@@ -58,13 +49,24 @@ Performed SQL-based business analysis using the AdventureWorks sample database t
 
 **Key Skills:** SQL, Relational Database Analysis
 
-## 🎯 Career Objective
-Seeking opportunities as:
-- Data Analyst
-- Banking Data Analyst
-- Business Intelligence Analyst
-- Financial Data Analyst
-- Risk Analytics Analyst
+## 💻 Technical Skills
+- **Programming & Database:** Python, MySQL, SQL
+- **Data Visualization:** Power BI
+- **Data Analysis:** Pandas, NumPy, Data Cleaning, EDA
+- **Business & Finance:** Banking Analytics, Financial Analysis, KPI Tracking, Risk Analysis
 
-Passionate about leveraging data analytics to support strategic decision-making, improve operational efficiency, and create business value in the banking and financial sector.
+---
+
+## 🎯EDUCATIONAL BACKGROUND							
+### Ho Chi Minh City University of Banking (NHS)				   
+- Bachelor’s degree of Banking and Finance (High Quality Program), 2019 - 2023
+- GPA: 3.1/ 4
+- Relevant Coursework: Applied Econometrics for Finance, Econometrics, Corporate Finance Analysis, Mathematical Models in Economics.
+
+## CERTIFICATION
+
+- Hackerrank: Certificate issued for Advanced SQL mastery.
+- Datacamp: Equivalent certifications for SQL, PowerBI and Python.
+- Office Information Technology: Certificate Of Advanced Information issued by Flic - HUB
+- Language: Proficient in English with Vietnamese Standardized Test of English Proficiency 4/6
 
