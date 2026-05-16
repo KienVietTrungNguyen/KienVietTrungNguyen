@@ -1,3 +1,9 @@
+# 👩‍💻 Nguyễn Viết Trung Kiên
+---
+Data Analyst | Banking and Finance Background
+📍 Ho Chi Minh City | 📧 trungkien180601@gmail.com
+
+---
 ## 👨‍💻 About Me
 
 Aspiring **Data Analyst** with a finance background and 1+ years of experience in Accounting. Skilled in **SQL (BigQuery), Python, Power BI, and Excel**, with hands-on experience in ETL, data analysis, and data quality validation. Passionate about turning data into **actionable insights** to support business **decision-making**.
