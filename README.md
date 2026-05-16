@@ -54,6 +54,7 @@ Explored Google Analytics eCommerce datasets using SQL on BigQuery to answer bus
 Performed SQL-based business analysis using the AdventureWorks sample database to analyze products, sales performance, and operational metrics.
 
 **Key Skills:** SQL, Relational Database Analysis
+---
 
 ## 💻 Technical Skills
 - **Programming & Database:** Python, MySQL, SQL
@@ -68,6 +69,8 @@ Performed SQL-based business analysis using the AdventureWorks sample database t
 - Bachelor’s degree of Banking and Finance (High Quality Program), 2019 - 2023
 - **GPA**: 3.1/ 4
 - **Relevant Coursework:** Applied Econometrics for Finance, Econometrics, Corporate Finance Analysis, Mathematical Models in Economics.
+
+---
 
 ## 🎯CERTIFICATION
 
