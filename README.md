@@ -15,18 +15,18 @@ I continuously enhance my technical and analytical capabilities through hands-on
 
 ## 📌 Featured Projects
 
+### 🛒 [E-commerce Analytics Pipeline — End-to-End Project](https://github.com/KienVietTrungNguyen/E-commerce-Analytics-Pipeline-End--to-End-Project-)
+Built a complete end-to-end data pipeline for an e-commerce platform (TechStore Vietnam), including data ingestion, transformation, and analytics workflows to support business reporting and decision-making.
+
+**Key Skills:** Python, ETL, BigQuery, Data Pipeline, Data Warehousing
+
+---
+
 ### 🏦 [Aurora Bank Analysis — Power BI](https://github.com/KienVietTrungNguyen/Aurora-Bank-Analysis----PowerBI---)
 Developed an interactive banking analytics dashboard to evaluate customer segments, transaction performance, and credit risk indicators.  
 The project helps identify high-potential customer groups, risky transaction behaviors, and operational performance across payment units.
 
 **Key Skills:** Power BI, Banking Analytics, KPI Design, Risk Analysis
-
----
-
-### 🛒 [E-commerce Analytics Pipeline — End-to-End Project](https://github.com/KienVietTrungNguyen/E-commerce-Analytics-Pipeline-End--to-End-Project-)
-Built a complete end-to-end data pipeline for an e-commerce platform (TechStore Vietnam), including data ingestion, transformation, and analytics workflows to support business reporting and decision-making.
-
-**Key Skills:** Python, ETL, BigQuery, Data Pipeline, Data Warehousing
 
 ---
 
