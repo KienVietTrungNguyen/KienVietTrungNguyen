@@ -48,7 +48,9 @@ Explored Google Analytics eCommerce datasets using SQL on BigQuery to answer bus
 
 **Key Skills:** SQL, BigQuery, Data Querying
 
+
 ---
+
 
 ### 🚲 [Bicycle Manufacturer SQL Analysis](https://github.com/KienVietTrungNguyen/Bicycle-Manufacturer---SQL---)
 Performed SQL-based business analysis using the AdventureWorks sample database to analyze products, sales performance, and operational metrics.
