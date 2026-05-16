@@ -57,13 +57,13 @@ Performed SQL-based business analysis using the AdventureWorks sample database t
 
 ---
 
-## 🎯EDUCATIONAL BACKGROUND							
+## 🎓EDUCATIONAL BACKGROUND							
 ### Ho Chi Minh City University of Banking (NHS)				   
 - Bachelor’s degree of Banking and Finance (High Quality Program), 2019 - 2023
 - GPA: 3.1/ 4
 - Relevant Coursework: Applied Econometrics for Finance, Econometrics, Corporate Finance Analysis, Mathematical Models in Economics.
 
-## CERTIFICATION
+## 🎯CERTIFICATION
 
 - Hackerrank: Certificate issued for Advanced SQL mastery.
 - Datacamp: Equivalent certifications for SQL, PowerBI and Python.
