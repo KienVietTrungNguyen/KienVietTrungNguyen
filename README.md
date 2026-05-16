@@ -15,7 +15,7 @@ I continuously enhance my technical and analytical capabilities through hands-on
 
 ## 📌 Featured Projects
 
-### 🏦 Aurora Bank Analysis — Power BI
+### 🏦 [Aurora Bank Analysis — Power BI](https://github.com/KienVietTrungNguyen/Aurora-Bank-Analysis----PowerBI---)
 Developed an interactive banking analytics dashboard to evaluate customer segments, transaction performance, and credit risk indicators.  
 The project helps identify high-potential customer groups, risky transaction behaviors, and operational performance across payment units.
 
@@ -23,14 +23,14 @@ The project helps identify high-potential customer groups, risky transaction beh
 
 ---
 
-### 🛒 E-commerce Analytics Pipeline — End-to-End Project
+### 🛒 [E-commerce Analytics Pipeline — End-to-End Project](https://github.com/KienVietTrungNguyen/E-commerce-Analytics-Pipeline-End--to-End-Project-)
 Built a complete end-to-end data pipeline for an e-commerce platform (TechStore Vietnam), including data ingestion, transformation, and analytics workflows to support business reporting and decision-making.
 
-**Key Skills:** Python, Data Pipeline, ETL, Data Processing
+**Key Skills:** Python, ETL, BigQuery, Data Pipeline, Data Warehousing
 
 ---
 
-### 📈 Fashion Marketing & Sales Analysis — Power BI
+### 📈 [Fashion Marketing & Sales Analysis — Power BI](https://github.com/KienVietTrungNguyen/Fashion-Marketing-Sales-Analysis---PowerBI---)
 Analyzed multi-channel marketing campaigns and sales performance in the fashion retail & e-commerce industry.  
 Focused on customer behavior, campaign effectiveness, and revenue optimization strategies.
 
@@ -38,7 +38,7 @@ Focused on customer behavior, campaign effectiveness, and revenue optimization s
 
 ---
 
-### 🌍 Superstore Sales & Expansion Strategy Analysis — Power BI
+### 🌍 [Superstore Sales & Expansion Strategy Analysis — Power BI](https://github.com/KienVietTrungNguyen/Superstore-Sales-And-Expansion-Strategy-Analysis----PowerBI---)
 Conducted business performance analysis for a global retail company operating across multiple international markets.  
 Provided insights into sales trends, regional performance, and market expansion opportunities.
 
@@ -46,19 +46,17 @@ Provided insights into sales trends, regional performance, and market expansion 
 
 ---
 
-### 🧾 eCommerce SQL Analysis
+### 🧾 [eCommerce SQL Analysis](https://github.com/KienVietTrungNguyen/eCommerce---SQL---)
 Explored Google Analytics eCommerce datasets using SQL on BigQuery to answer business-related questions and uncover customer purchasing insights.
 
 **Key Skills:** SQL, BigQuery, Data Querying
 
 ---
 
-### 🚲 Bicycle Manufacturer SQL Analysis
+### 🚲 [Bicycle Manufacturer SQL Analysis](https://github.com/KienVietTrungNguyen/Bicycle-Manufacturer---SQL---)
 Performed SQL-based business analysis using the AdventureWorks sample database to analyze products, sales performance, and operational metrics.
 
 **Key Skills:** SQL, Relational Database Analysis
-
----
 
 ## 🎯 Career Objective
 Seeking opportunities as:
