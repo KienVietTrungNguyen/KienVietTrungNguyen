@@ -48,7 +48,6 @@ Explored Google Analytics eCommerce datasets using SQL on BigQuery to answer bus
 
 **Key Skills:** SQL, BigQuery, Data Querying
 
-
 ---
 
 
@@ -56,7 +55,9 @@ Explored Google Analytics eCommerce datasets using SQL on BigQuery to answer bus
 Performed SQL-based business analysis using the AdventureWorks sample database to analyze products, sales performance, and operational metrics.
 
 **Key Skills:** SQL, Relational Database Analysis
+
 ---
+
 
 ## 💻 Technical Skills
 - **Programming & Database:** Python, MySQL, SQL
