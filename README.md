@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Aspiring Data Analyst with a finance background and 1+ years of experience in Accounting. Skilled in SQL (BigQuery), Python, Power BI, and Excel, with hands-on experience in ETL, data analysis, and data quality validation. Passionate about turning data into actionable insights to support business decision-making.
+Aspiring **Data Analyst** with a finance background and 1+ years of experience in Accounting. Skilled in **SQL (BigQuery), Python, Power BI, and Excel**, with hands-on experience in ETL, data analysis, and data quality validation. Passionate about turning data into **actionable insights** to support business **decision-making**.
 
 ---
 
@@ -60,13 +60,13 @@ Performed SQL-based business analysis using the AdventureWorks sample database t
 ## 🎓EDUCATIONAL BACKGROUND							
 ### Ho Chi Minh City University of Banking (NHS)				   
 - Bachelor’s degree of Banking and Finance (High Quality Program), 2019 - 2023
-- GPA: 3.1/ 4
-- Relevant Coursework: Applied Econometrics for Finance, Econometrics, Corporate Finance Analysis, Mathematical Models in Economics.
+- **GPA**: 3.1/ 4
+- **Relevant Coursework:** Applied Econometrics for Finance, Econometrics, Corporate Finance Analysis, Mathematical Models in Economics.
 
 ## 🎯CERTIFICATION
 
-- Hackerrank: Certificate issued for Advanced SQL mastery.
-- Datacamp: Equivalent certifications for SQL, PowerBI and Python.
-- Office Information Technology: Certificate Of Advanced Information issued by Flic - HUB
-- Language: Proficient in English with Vietnamese Standardized Test of English Proficiency 4/6
+- **Hackerrank:** Certificate issued for Advanced SQL mastery.
+- **Datacamp:** Equivalent certifications for SQL, PowerBI and Python.
+- **Office Information Technology:** Certificate Of Advanced Information issued by Flic - HUB
+- **Language:** Proficient in English with Vietnamese Standardized Test of English Proficiency 4/6
 
